@@ -100,11 +100,4 @@ Each mode was modularized for testability and debugging using UART and LCD inter
 - 🧪 Simulation: Proteus
 - 📐 PCB Design: Altium Designer
 - 🧾 Language: C
-## 🖼️ Sample Images
 
-Below are some snapshots of our electronics boards and project results.
-
-> 📌 Add images in `/images/` folder and embed like this:
-![Main Board](images/board_3d.png)
-![LCD Unit](images/lcd_unit.png)
-![Competition](images/robocup_award.jpg)
